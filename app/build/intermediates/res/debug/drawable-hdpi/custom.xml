@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_focused="true" android:drawable="@drawable/wiseguyslogo" android:state_pressed="true"></item>
+
+    <item android:drawable="@drawable/scarface"></item>
+
+</selector><!-- From: file:/C:/TheWiseGuys/app/src/main/res/drawable-hdpi/custom.xml -->
